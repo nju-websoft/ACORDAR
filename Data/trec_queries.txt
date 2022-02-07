@@ -1,0 +1,252 @@
+1	Antitrust Cases Pending
+2	Acquisitions
+3	Debt Rescheduling
+4	Third World Debt Relief
+5	U.S. Budget Deficit
+6	Economic Projections
+7	AIDS treatments
+8	Water Pollution
+9	Mitsubishi Heavy Industries Ltd.
+10	Drug Approval
+11	International Trade Liberalization Talks
+12	Patent Infringement Lawsuits
+13	New Medical Technology
+14	Companies Capable of Producing Document Management Systems
+15	Analyses of Savings and Loan Failures
+16	Computer or Communications Systems Upgrade
+17	U.S. Technology Policy
+18	Purchasers of Modern Communications Equipment
+19	Who's working with Supercomputers
+20	Leveraged Buyouts
+21	Satellite Launch Contracts
+22	MCI
+23	Merit-Pay vs. Seniority
+24	Machine Translation
+25	Hostage-Taking
+26	Information Retrieval Systems
+27	Natural Language Processing
+28	Surrogate Motherhood
+29	Border Incursions
+30	Demographic Shifts in the U.S.
+31	Demographic Shifts across National Boundaries
+32	Automation
+33	Greenpeace
+34	FRG Political Party Positions
+35	1988 Presidential Candidates Platforms
+36	Genetic Engineering
+37	Alternative/renewable Energy Plant & Equipment Installation
+38	Official Corruption
+39	Bank Failures
+40	Criminal Actions Against Officers of Failed Financial Institutions
+41	Crude Oil Price Trends
+42	Downstream Investments by OPEC Member States
+43	Data on Proven Reserves of Oil & Natural Gas Producers
+44	International Military Equipment Sales
+45	What Backing Does the National Rifle Association Have?
+46	Computer-aided Crime
+47	Computer-aided Crime Detection
+48	Fiber Optics Applications
+49	Fiber Optics Equipment Manufacturers
+50	Welfare Reform
+51	Catastrophic Health Insurance
+52	Find Innovative Companies
+53	Funding Biotechnology
+54	New Space Satellite Applications
+55	Non-commercial Satellite Launches
+56	Impact of the 1986 Immigration Law
+57	Generic Drug Substitutions
+58	Capacity of the U.S. Cellular Telephone Network
+59	Actions Against International Terrorists
+60	Death from Cancer
+61	RDT&E of New Cancer Fighting Drugs
+62	Alternatives to Traditional Cancer Therapies
+63	Anti-smoking Actions by Government
+64	Medical Ethics and Modern Technology
+65	Privatization of State Assets
+66	McDonnell Douglas Contracts for Military Aircraft
+67	The Human Genome Project
+68	Productivity Trends in the U.S. Economy
+69	Industrial Espionage
+70	U.S. Political Campaign Financing
+71	Coping with overcrowded prisons
+72	Insurance Coverage which pays for Long Term Care
+73	Oil Spills
+74	Efforts to enact Gun Control Legislation
+75	Causes and treatments of multiple sclerosis (MS)
+76	Electric Car Development
+77	Acid Rain
+78	Automobile Recalls
+79	Vietnam Veterans and Agent Orange
+80	Tobacco company advertising and the young
+81	Standardized testing and cultural bias
+82	Financing AMTRAK
+83	Cost of Garbage/Trash Removal
+84	The Consequences of Implantation of Silicone Gel Breast Devices
+85	Use of Mutual Funds in an Individual's Retirement Strategy
+86	The Effectiveness of Medical Products and Related Programs Utilized in the Cessation of Smoking.
+87	Smoking Bans
+88	Hazardous Waste Cleanup
+89	Real-life private investigators
+90	English as the Official Language in U.S.
+91	Dog Maulings
+92	U. S. Restaurants in Foreign Lands
+93	Abuse of the Elderly by Family Members, and Medical and Nonmedical Personnel, and Initiatives Being Taken to Minimize This Mistreatment
+94	Asbestos Related Lawsuits
+95	Corporate Pension Plans/Funds
+96	Reform of the U.S. Welfare System
+97	Difference of Learning Levels Among Inner City and More Suburban School Students
+98	Beachfront Erosion
+99	Real Motives for Murder
+100	Efforts to Improve U.S. Schooling
+101	Oil Spill Cleanup
+102	Gene Therapy and Its Benefits to Humankind
+103	Impact of foreign textile imports on U.S. textile industry
+104	Non-invasive procedures for persons with heart ailments
+105	Environmental Protection
+106	Cigarette Consumption
+107	Computer Security
+108	Algae as Food Supplement
+109	Domestic Violence
+110	Firefighter Training
+111	Foreign Trade
+112	Control of Food Supplements
+113	Solar Power
+114	Outpatient Surgery
+115	Volcanic and Seismic activity levels
+116	Electric Automobiles
+117	Herbal Food Supplements/Natural Health Care Products
+118	Imposition of a school uniform or dress code
+119	Violent Juvenile Crime
+120	China Trade
+121	Electronic Surveillance
+122	Weight Control/Diets
+123	For-profit hospitals
+124	Foreign automobile manufacturers in U.S.
+125	Source of taxes
+126	Worldwide Welfare
+127	Evacuation of U.S. Citizens by U.S. Military
+128	Animal husbandry for exotic animals
+129	Deaths from Scuba Diving
+130	Trash TV
+131	Air Traffic Control Systems
+132	International Organized Crime
+133	Poliomyelitis and Post-Polio
+134	Endangered Species (Mammals)
+135	Most Dangerous Vehicles
+136	African Civilian Deaths
+137	New Hydroelectric Projects
+138	Implant Dentistry
+139	Rap and Crime
+140	Radio Waves and Brain Cancer
+141	Hydroponics
+142	Marine Vegetation
+143	Unexplained Highway Accidents
+144	Unsolicited Faxes
+145	Best Retirement Country
+146	New Fuel Sources
+147	Modern Slavery
+148	Mexican Air Pollution
+149	Income Tax Evasion
+150	Adoptive Biological Parents
+151	Viral Hepatitis
+152	Risk of Aspirin
+153	Land Mine Ban
+154	Airport Security
+155	Overseas Tobacco Sales
+156	Educational Standards
+157	Wildlife Extinction
+158	Metabolism
+159	Health and Computer Terminals
+160	Soil Pollution
+161	ocean remote sensing
+162	postmenopausal estrogen Britain
+163	blood-alcohol fatalities
+164	drug legalization benefits
+165	clothing sweatshops
+166	human smuggling
+167	transportation tunnel disasters
+168	rabies
+169	El Nino
+170	commercial cyanide uses
+171	anorexia nervosa bulimia
+172	food/drug laws
+173	health insurance holistic
+174	Native American casino
+175	encryption equipment export
+176	Nobel prize winners
+177	hydrogen energy
+178	cigar smoking
+179	mainstreaming
+180	obesity medical treatment
+181	alternative medicine
+182	hydrogen fuel automobiles
+183	mental illness drugs
+184	space station moon
+185	hybrid fuel cars
+186	radioactive waste
+187	organic soil enhancement
+188	orphan drugs
+189	R&D drug prices
+190	robotics
+191	mercy killing
+192	home schooling
+193	tourism
+194	oceanographic vessels
+195	foreign minorities, Germany
+196	behavioral genetics
+197	osteoporosis
+198	cosmic events
+199	Parkinson's disease
+200	poaching, wildlife preserves
+201	tropical storms
+202	legal, Pan Am, 103
+203	salvaging, shipwreck, treasure
+204	steel production
+205	Cuba, sugar, exports
+206	drugs, Golden Triangle
+207	creativity
+208	quilts, income
+209	recycle, automobile tires
+210	carbon monoxide poisoning
+211	industrial waste disposal
+212	suicides
+213	law enforcement, dogs
+214	UV damage, eyes
+215	declining birth rates
+216	Legionnaires' disease
+217	profiling, motorists, police
+218	Greek, philosophy, stoicism
+219	Estonia, economy
+220	curbing population growth
+221	railway accidents
+222	deregulation, gas, electric
+223	tourism, increase
+224	inventions, scientific discoveries
+225	child labor
+226	Lyme disease
+227	U.S., investment, Africa
+228	Stirling engine
+229	ship losses
+230	antibiotics ineffectiveness
+231	What is a Bengals cat?
+232	hunger
+233	whan did Jackie Robinson appear at his first game
+234	CHEVROLET TRUCKS
+235	when can a lender foreclose on property
+236	deer
+237	incandescent light bulb
+238	mistletoe
+239	antique appliance restoration
+240	how e-mail bennefits businesses
+241	Jennifer Aniston
+242	Royal Carribean Cruise Lines
+243	baltimore
+244	where can I find information about kappa alpha psi?
+245	car traffic report
+246	where can i find growth rates for the pine tree?
+247	gps clock
+248	calcium
+249	motorcycle safety helmets
+250	us savings bonds
+251	Where can I find information on the decade of the 1920's?
+252	DNA Testing
