@@ -1,6 +1,6 @@
 # ACORDAR
 
-ACORDAR is a test collection for ad hoc content-based dataset retrieval, which is the task of answering a keyword query with a ranked list of datasets. Keywords may point to the metadata and/or the data of a dataset.
+ACORDAR is a test collection for ad hoc content-based dataset retrieval, which is the task of answering a keyword query with a ranked list of datasets. Keywords may point to the metadata and/or the data of a dataset. For details about the construction of this test collection, please refer to the following paper.
 
 ## Paper and Citation
 
