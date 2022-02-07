@@ -16,7 +16,7 @@ The "./Data/all_queries.txt" file contains 493 queries, one query per line, wher
 
 ## Relevance Judgments
 
-The "./Data/qrels.txt" file contains 10,671 relevance judgments in TREC's qrels format, one judgment per line, where each line has four space-separated fields: query_id, iteration (always zero and not used), dataset_id, and relevancy (0: irrelevant; 1: partially relevant; 2: highly relevant).
+The "./Data/qrels.txt" file contains 10,671 relevance judgments in TREC's qrels format, one judgment per line, where each line has four tab-separated fields: query_id, iteration (always zero and not used), dataset_id, and relevancy (0: irrelevant; 1: partially relevant; 2: highly relevant).
 
 ## Splits for Cross-Validation
 
