@@ -37,4 +37,4 @@ The "./Baselines" folder contains rankings outputted by the baselines in TREC's 
 
 # Contact
 
-Gong Cheng (gcheng@nju.edu.cn)
+Tengteng Lin (tengtenglin@smail.nju.edu.cn) and Gong Cheng (gcheng@nju.edu.cn)
