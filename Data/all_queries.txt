@@ -325,7 +325,7 @@
 1073	New York Heating company
 1074	Authors, topics and publication dates of British Library Bibliography
 1075	soil erosion control
-1076	Permits issued to conduct scientific research锛宲roject title, permit year, location, area of study
+1076	Permits issued to conduct scientific research, project title, permit year, location, area of study
 1077	evaluation contract of USAID
 1078	early children education
 1079	uninsured motor or vehicle, physical damage, company, medical payments
