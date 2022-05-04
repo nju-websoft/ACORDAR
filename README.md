@@ -8,7 +8,7 @@ Tengteng Lin, Qiaosheng Chen, Ruoqi Zhao, Qing Shi, Xiaxia Wang, Gong Cheng, Ahm
 
 ## Datasets
 
-This test collection involves 31,589 RDF datasets collected from 543 data portals. The "./Data/datasets.txt" file provides the ID and metadata of each dataset in JSON format. The dataset itself can be downloaded via the links in the download field. We recommend using Apache Jena to parse the downloaded datasets.
+This test collection involves 31,589 RDF datasets collected from 543 data portals. The "./Data/datasets.json" file provides the ID and metadata of each dataset in JSON format. The dataset itself can be downloaded via the links in the download field. We recommend using Apache Jena to parse the downloaded datasets.
 
 ## Queries
 
