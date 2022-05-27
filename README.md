@@ -28,12 +28,12 @@ We evaluated four baseline retrieval models: TF-IDF based cosine similarity, BM2
 
 The "./Baselines" folder contains rankings outputted by the baselines in TREC's results format. Below we show the evaluation results averaged over the test sets in all the five folds. One can use trec_eval for evaluation.
 
-|          | NDCG@5 | NDCG@10 | MAP@5  | MAP@10 |
-| -------- | ------ | ------- | ------ | ------ |
-| TF-IDF   | 0.4969 | 0.5368  | 0.2862 | 0.3971 |
-| BM25     | 0.5406 | 0.5795  | 0.3185 | 0.4351 |
-| FSDM     | 0.5886 | 0.6132  | 0.3604 | 0.4609 |
-| LMD      | 0.5362 | 0.5745  | 0.3258 | 0.4317 |
+|        | NDCG@5 | NDCG@10 | MAP@5  | MAP@10 |
+| ------ | ------ | ------- | ------ | ------ |
+| TF-IDF | 0.5088 | 0.5452  | 0.2871 | 0.3976 |
+| BM25   | 0.5538 | 0.5877  | 0.3198 | 0.4358 |
+| FSDM   | 0.5932 | 0.6151  | 0.3592 | 0.4602 |
+| LMD    | 0.5465 | 0.5805  | 0.3266 | 0.4324 |
 
 # Contact
 
